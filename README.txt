@@ -1,6 +1,6 @@
 Template Credits:
 [HTML5 UP](https://html5up.net/massively)
-
+You can find more information on [HTML5 UP](https://html5up.net) website.
 Original Template:
 Massively by HTML5 UP
 html5up.net | @ajlkn
